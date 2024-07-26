@@ -1,5 +1,5 @@
 {
-  "name": "hermit-md",
+  "name": "↫𝑨𝑴𝑬𝑬𝑹⛧𝑿𝑹☇",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "07_26_H_E_R_M_I_T_Z99ZSBQ"
     },
     "SUDO": {
       "description": "owner number of the bot",
@@ -48,17 +48,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "ᴀᴍᴇᴇʀ;sᴇʀ;917530060988;https://i.imgur.com/fYnzwoW.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ"
+      "value": "🇧🇷⃞₊₉₁₇ͣ₅ͫ₃ͤͤ₀ͤ₀ͬ₆₀ᷤ₉ͤ₈ͬ₈ϟ➤⁩"
     },
     "AUDIO_DATA": {
-      "description": "audio package name",
+      "description": "audio pack name",
       "required": true,
-      "value": "ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "🇧🇷⃞₊₉₁₇ͣ₅ͫ₃ͤͤ₀ͤ₀ͬ₆₀ᷤ₉ͤ₈ͬ₈ϟ➤⁩;https://i.imgur.com/fYnzwoW.jpeg"
     },
     "READ_MSG": {
       "description": "Read all messages",
