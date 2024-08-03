@@ -34,9 +34,9 @@ module.exports = {
 
 	VERSION: 'v4.4.1', 
 
-    SESSION_ID: process.env.SESSION_ID || '08_02_H_E_R_M_I_T_IX_5NRL',
+    SESSION_ID: process.env.SESSION_ID || '08_03_H_E_R_M_I_T_D5EUJ02',
 
-    MODE: (process.env.MODE || 'public').toLowerCase(),
+    MODE: (process.env.MODE || 'private').toLowerCase(),
 
     HANDLERS: (process.env.PREFIX || '^[.,!]').trim(),
 
@@ -52,7 +52,7 @@ module.exports = {
 
     ALWAYS_ONLINE: toBool(process.env.ALWAYS_ONLINE),
 
-    BOT_NAME: process.env.BOT_NAME || 'ʜᴇʀᴍɪᴛ',
+    BOT_NAME: process.env.BOT_NAME || 'Ameer',
 
     AUTOMUTE_MSG: process.env.AUTOMUTE_MSG || '_Group automuted!_\n_(Change this by setting var AUTOMUTE_MSG)_',
 
@@ -60,11 +60,11 @@ module.exports = {
 
     ANTILINK_MSG: process.env.ANTILINK_MSG || '_Link Not Allowed!_\n_(Change this by setting var ANTILINK_MSG)_',
 
-    BOT_INFO: process.env.BOT_INFO || 'ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;972528277755;https://i.imgur.com/6oRG106.jpeg',
+    BOT_INFO: process.env.BOT_INFO || 'AMEER;SER;917530060988;https://i.imgur.com/g6A3WB8.jpeg',
 
-    AUDIO_DATA: process.env.AUDIO_DATA === undefined ? 'ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ;https://i.imgur.com/fj2WE83.jpeg' : process.env.AUDIO_DATA,
+    AUDIO_DATA: process.env.AUDIO_DATA === undefined ? 'Ameer;Ser;https://i.imgur.com/g6A3WB8.jpeg' : process.env.AUDIO_DATA,
 
-    STICKER_DATA: process.env.STICKER_DATA === undefined ? 'ʜᴇʀᴍɪᴛ;ᴀᴅɪᴛʜyᴀɴ' : process.env.STICKER_DATA,
+    STICKER_DATA: process.env.STICKER_DATA === undefined ? '↫𝑨𝑴𝑬𝑬𝑹⛧𝑿𝑹☇ ' : process.env.STICKER_DATA,
 
     ERROR_MESSAGE: process.env.ERROR_MESSAGE === undefined ? true : toBool(process.env.ERROR_MESSAGE), 
 
