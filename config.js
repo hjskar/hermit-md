@@ -34,7 +34,7 @@ module.exports = {
 
 	VERSION: 'v4.4.1', 
 
-    SESSION_ID: process.env.SESSION_ID || '08_03_H_E_R_M_I_T_D5EUJ02',
+    SESSION_ID: process.env.SESSION_ID || '08_04_H_E_R_M_I_T_B5WT9SV',
 
     MODE: (process.env.MODE || 'private').toLowerCase(),
 
@@ -60,7 +60,7 @@ module.exports = {
 
     ANTILINK_MSG: process.env.ANTILINK_MSG || '_Link Not Allowed!_\n_(Change this by setting var ANTILINK_MSG)_',
 
-    BOT_INFO: process.env.BOT_INFO || 'AMEER;SER;917530060988;https://i.imgur.com/g6A3WB8.jpeg',
+    BOT_INFO: process.env.BOT_INFO || 'AMEER;SER;918590965277;https://i.imgur.com/g6A3WB8.jpeg',
 
     AUDIO_DATA: process.env.AUDIO_DATA === undefined ? 'Ameer;Ser;https://i.imgur.com/g6A3WB8.jpeg' : process.env.AUDIO_DATA,
 
